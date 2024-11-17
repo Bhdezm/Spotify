@@ -1,0 +1,47 @@
+{
+  "Top 10 artistas mas escuchados por el usuario": [
+    "Jarabe De Palo",
+    "Nil Moliner",
+    "Arnau Griso",
+    "Morat",
+    "La Vela Puerca",
+    "Estopa",
+    "fun.",
+    "Chimbala",
+    "La Pegatina",
+    "Ed Sheeran"
+  ],
+  "Top 5 generos favoritos del usuario": [
+    "latin alternative",
+    "latin viral pop",
+    "spanish pop",
+    "colombian pop",
+    "rumba"
+  ]
+}{
+  "Top 10 canciones mas escuchadas por el usuario": {
+    "Es Gratis": "Arnau Griso",
+    "C\u00f3mo Te Atreves": "Morat",
+    "Y se fue (con Nil Moliner)": "La Pegatina",
+    "Besos En Guerra": "Morat",
+    "Vivir (with Estopa)": "Rozal\u00e9n",
+    "Soldadito marinero": "Fito y Fitipaldis",
+    "Quiero, Quiero y Quiero": "Arnau Griso",
+    "Soldadito de Hierro": "Nil Moliner",
+    "Tusa": "KAROL G",
+    "Eso Que T\u00fa Me Das": "Jarabe De Palo"
+  }
+}{
+  "Followers_playlist": 3241562
+}{
+  "Parametros": {
+    "Valor medio de tempo": 123.48017142857141,
+    "Valor medio de acousticness": 0.2559470857142857,
+    "Valor medio de danceability": 0.5794571428571428,
+    "Valor medio de energy": 0.6429328571428572,
+    "Valor medio de instrumentalness": 0.03126202514285714,
+    "Valor medio de liveness": 0.20616714285714288,
+    "Valor medio de loudness": -8.7227,
+    "Valor medio de valence": 0.648842857142857
+  }
+}
